@@ -21,7 +21,7 @@ StarterPlayer
 Or load remotely:
 
 ```lua
-loadstring(game:HttpGet("YOUR_RAW_GITHUB_LINK"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lucaslucaskurd12-hash/blokkas-sun-moon-shaders/main/Blokkas_Sun_and_Moon_Shaders.lua"))()
 ```
 
 ## Features
