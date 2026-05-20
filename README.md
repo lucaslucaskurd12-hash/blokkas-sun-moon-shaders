@@ -1,5 +1,5 @@
 # Blokka's Sun and Moon Shaders
-
+# THIS IS A CLIENT BASED SCRIPT, NO ONE ELSE IN GAME WILL SEE!
 A custom Roblox shader system featuring:
 
 - Custom Sun and Moon textures
@@ -14,8 +14,7 @@ A custom Roblox shader system featuring:
 Place the script in:
 
 ```
-StarterPlayer
-└── StarterPlayerScripts
+Executor
 ```
 
 Or load remotely:
@@ -36,7 +35,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/lucaslucaskurd12-hash
 
 ## Credits
 
-Created by Blokka.
+Created by Bl0kka.
 
 ## License
 
