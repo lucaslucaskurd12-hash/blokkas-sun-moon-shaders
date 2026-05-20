@@ -1,0 +1,32 @@
+# Roblox Studio temporary files
+*.rbxl.lock
+*.rbxlx.lock
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Backup files
+*.bak
+*.tmp
+
+# Rojo generated files
+sourcemap.json
+
+# Node modules (if using Rojo/Wally tooling)
+node_modules/
+
+# Wally
+Packages/
