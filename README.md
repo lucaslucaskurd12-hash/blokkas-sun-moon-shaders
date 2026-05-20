@@ -8,7 +8,7 @@ A custom Roblox shader system featuring:
 - Day/Night slider
 - Enhanced atmosphere, bloom, fog, and ambient lighting
 - Original Roblox Sun and Moon hidden and replaced by custom celestial objects
-
+- Soul Eaters Sun and Moon
 ## Installation
 
 Place the script in:
